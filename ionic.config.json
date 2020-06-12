@@ -1,0 +1,7 @@
+{
+  "name": "ionic3-dialogflow-client-example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
